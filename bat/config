@@ -1,0 +1,4 @@
+-p
+--pager=""
+--map-syntax gltf:json
+--number
